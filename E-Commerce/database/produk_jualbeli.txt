@@ -1,0 +1,5 @@
+001;Shampoo Botol;12000;6
+002;Pasta Gigi;8000;4
+003;Sabun Cuci Piring;6000;7
+004;Hand Sanitizer;15000;4
+005;Tisu Toilet;5000;8
